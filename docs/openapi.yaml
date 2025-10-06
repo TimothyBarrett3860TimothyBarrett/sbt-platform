@@ -2076,3 +2076,5 @@ components:
       type: apiKey
       name: x-partner-id
       in: header
+
+# Update: 2025-10-06
